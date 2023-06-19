@@ -5,44 +5,5 @@
   justify-content: center;
   height: 100vh;
  }
-
- .main {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  background-color: blueviolet;
-}
-
-.inputs{
-  font-size: 25px;
-  border-radius: 6px;
-  margin-bottom: 10px;
-}
-
-.field{
-  border: 3px solid white;
-  padding: 20px;
-}
-
-.ps{
-  margin-left: 30px;
-}
-
-.botao{
-  border: 5px solid white ;
-  border-radius: 15px;
-  padding: 10px;
-  margin-left: 40px;
-  color: white;
-}
-
-.voltar{
-  border: 5px solid white ;
-  border-radius: 15px;
-  padding: 10px;
-  margin-left: 20px;
-  text-decoration: none;
-  color: white;
-}
+ 
  
